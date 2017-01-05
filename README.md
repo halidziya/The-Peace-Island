@@ -14,9 +14,9 @@ End : Whatever the technology is the evil inside human being cannot be alleviate
 Halid Ziya Yerebakan
 
 # Rules
-Stick with theme
-Describe characters in characthers section first before using it
-We will add more ...
+Stick with theme \
+Describe characters in characthers section first before using it \ 
+We will add more ... \ 
 
 # Characthers
 Alpha for now
