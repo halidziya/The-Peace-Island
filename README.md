@@ -19,11 +19,17 @@ Alpha for now
 # Brain Storm
 
 -- Soilless farming
+
 -- Electrolysis
+
 -- PVcells
+
 -- Autopilot, driverless cars
+
 -- 3D printing, printing platform with sea sand silicon 
+
 -- Shipping with drones
+
 -- Automated expanding of platform by 3d printing itself
 
 # Novel
