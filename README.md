@@ -5,7 +5,7 @@
 Alpha decided to act. 
 
  
-End : Whatever the technology is 
+End : Whatever the technology is the evil inside human being cannot be alleviated. There would be always conflicts here. All we hope is the justice in the afterlife. 
   
   
   
@@ -13,36 +13,24 @@ End : Whatever the technology is
 # Authors
 Halid Ziya Yerebakan
 
-
-# The-Peace-Island
-This is an experimental open source realistic science fiction project. This novel narrates the journey of a scientist while contributing to creating new continent in the middle of an ocean.  
-
-
 # Rules
 Stick with theme
-Describe characters in characthers section first before using 
+Describe characters in characthers section first before using it
 We will add more ...
 
 # Characthers
 Alpha for now
 
-
-
 # Brain Storm
 
--- Soilless farming
-
--- Electrolysis
-
--- PVcells
-
--- Autopilot, driverless cars
-
--- 3D printing, printing platform with sea sand silicon 
-
--- Shipping with drones
-
--- Automated expanding of platform by 3d printing itself
+> Soilless farming
+> Electrolysis
+> PVcells
+> Autopilot, driverless cars
+> 3D printing, printing platform with sea sand silicon 
+> Shipping with drones
+> Automated expanding of platform by 3d printing itself
+> Bitcoin decentralized currecies
 
 
   
