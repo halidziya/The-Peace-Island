@@ -14,23 +14,24 @@ End : Whatever the technology is the evil inside human being cannot be alleviate
 Halid Ziya Yerebakan
 
 # Rules
-Stick with theme \
-Describe characters in characthers section first before using it \ 
-We will add more ... \ 
+Stick with theme <br>
+Describe characters in characthers section first before using it <br>
+We will add more ... <br>
 
 # Characthers
 Alpha for now
 
 # Brain Storm
-
-> Soilless farming
-> Electrolysis
-> PVcells
-> Autopilot, driverless cars
-> 3D printing, printing platform with sea sand silicon 
-> Shipping with drones
-> Automated expanding of platform by 3d printing itself
-> Bitcoin decentralized currecies
+<ul>
+<li>Soilless farming</li>
+<li>Electrolysis</li>
+<li>PVcells</li>
+<li>Autopilot, driverless cars</li>
+<li>3D printing, printing platform with sea sand silicon </li>
+<li>Shipping with drones</li>
+<li>Automated expanding of platform by 3d printing itself</li>
+<li>Bitcoin decentralized currecies</li>
+</ul>
 
 
   
