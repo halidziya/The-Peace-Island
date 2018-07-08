@@ -32,6 +32,7 @@ add some pictures
 <li>Shipping with drones</li>
 <li>Automated expanding of platform by 3d printing itself</li>
 <li>Bitcoin decentralized currecies</li>
+<li>Unmanned water vehichles powered by sun to carry cargo for free between two coast</li>
 </ul>
 
 
