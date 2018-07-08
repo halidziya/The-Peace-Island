@@ -39,3 +39,6 @@ add some pictures
   
 # References, Links
 https://www.youtube.com/watch?v=A_AFnW1bZL8
+https://www.youtube.com/watch?v=R_Qp_rOtJ8E
+https://www.youtube.com/watch?v=KK_e2saKlOc
+
