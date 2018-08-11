@@ -33,6 +33,7 @@ add some pictures
 <li>Automated expanding of platform by 3d printing itself</li>
 <li>Bitcoin decentralized currecies</li>
 <li>Unmanned water vehichles powered by sun to carry cargo for free between two coast</li>
+  <li>Reproducing machines : A magnifier glass heats and turns sand into another magnifier glass. Optical intelligence is carved into neural network like in link </li>
 </ul>
 
 
