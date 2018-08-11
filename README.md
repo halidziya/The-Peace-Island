@@ -1,3 +1,6 @@
+Your personal space in this universe is 56 thousand times billion times billion light years. Do not fight, do science !
+
+
 # The Peace Island
 
   Alpha was tired of ugly politics. The human race was fighting with each other all time in all centuries. Could there be a solution? What are the reasons of the conflicts: human greed, arrogance, selfishness ... The list goes on. Is it possible to create a solution? Without having a complete answer Alpha thought creating additional resources will reduce the tension. Considering the main source of all energy on earth the sun was the very good candidate to harvest. Using abundance of sunshine, it is possible to generate tons of energy on the surface of the ocean. Creating an artificial platform and obtaining the water directly from ocean electrolysis of the water and obtaining hydrogen fuel could be a good candidate. "Could I create a new continent" he thought. 
@@ -33,10 +36,13 @@ add some pictures
 <li>Automated expanding of platform by 3d printing itself</li>
 <li>Bitcoin decentralized currecies</li>
 <li>Unmanned water vehichles powered by sun to carry cargo for free between two coast</li>
-  <li>Reproducing machines : A magnifier glass heats and turns sand into another magnifier glass. Optical intelligence is carved into neural network like in link </li>
+  <li>Reproducing machines : A magnifier glass heats and turns sand into another magnifier glass. Optical intelligence is carved into neural network like in the link </li>
 </ul>
 
 <img src="https://techcrunch.com/wp-content/uploads/2018/07/optical-dnn.jpg?w=1390&crop=1"/>
+
+# Calculcation of personal universe
+4/3 * pi * 46.6 billion ^ 3 / 7.6 billion
   
 # References, Links
 https://www.youtube.com/watch?v=A_AFnW1bZL8<br>
