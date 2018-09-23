@@ -37,6 +37,7 @@ add some pictures
 <li>Bitcoin decentralized currecies</li>
 <li>Unmanned water vehichles powered by sun to carry cargo for free between two coast</li>
   <li>Reproducing machines : A magnifier glass heats and turns sand into another magnifier glass. Optical intelligence is carved into neural network like in the link </li>
+  <li> Solar Sinter from Markus Kayser opens the door for reproducing machines. You can generate glass from glass with sand and let you grow with sunlight. </li>
 </ul>
 
 <img src="https://techcrunch.com/wp-content/uploads/2018/07/optical-dnn.jpg?w=1390&crop=1"/>
@@ -50,4 +51,6 @@ https://www.youtube.com/watch?v=R_Qp_rOtJ8E<br>
 https://www.youtube.com/watch?v=KK_e2saKlOc<br>
 https://techcrunch.com/2018/07/26/this-3d-printed-ai-construct-analyzes-by-bending-light/<br>
 http://www.urbanrigger.com/
+https://www.youtube.com/watch?v=xDeSW44fkeI
+
 
