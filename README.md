@@ -1,5 +1,7 @@
 Your personal space in this universe is 56 thousand times billion times billion light years. Do not fight, do science !
 
+I have not seen any story collabratively written. But I believe it is possible. Wikipedia is a success story right ? 
+
 
 # The Peace Island
 
@@ -40,10 +42,14 @@ add some pictures
   <li> Solar Sinter from Markus Kayser opens the door for reproducing machines. You can generate glass from glass with sand and let you grow with sunlight. </li>
 </ul>
 
+The energy today that we use a chemical form of stored sun light. If we have a better way to store the energy we can do much more 
+
 <img src="https://techcrunch.com/wp-content/uploads/2018/07/optical-dnn.jpg?w=1390&crop=1"/>
 
 # Calculcation of personal universe
 4/3 * pi * 46.6 billion ^ 3 / 7.6 billion
+
+
   
 # References, Links
 https://www.youtube.com/watch?v=A_AFnW1bZL8<br>
