@@ -47,7 +47,7 @@ The energy today that we use a chemical form of stored sun light. If we have a b
 <img src="https://techcrunch.com/wp-content/uploads/2018/07/optical-dnn.jpg?w=1390&crop=1"/>
 
 # Calculcation of personal universe
-4/3 * pi * 46.6 billion ^ 3 / 7.6 billion
+4/3 * pi * 46.6 billion ^ 3 / 7.6 billion = 53 trillion
 
 
   
