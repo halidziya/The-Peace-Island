@@ -58,5 +58,5 @@ https://www.youtube.com/watch?v=KK_e2saKlOc<br>
 https://techcrunch.com/2018/07/26/this-3d-printed-ai-construct-analyzes-by-bending-light/<br>
 http://www.urbanrigger.com/
 https://www.youtube.com/watch?v=xDeSW44fkeI
-
+https://terraforming.fandom.com/wiki/Artificial_Continents
 
